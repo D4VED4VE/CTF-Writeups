@@ -14,7 +14,7 @@ nmap -sC -sV -oN nmap/initial IP_ADDRESS
 - -oN to output to a file as well as the terminal
 	- Output saved to initial in directory nmap
 
-![pickle-rick-nmap.png](:/fcc5c5c71147496b80b2896531485bc7)
+![alt text](https://github.com/dave250783/CTF-Writups/TryHackMe/Pickle_Rick/pickle-rick-web-page.png?raw=true)
 
 As we can see from the scan there are only 2 common ports open;
 - 22 SSH
