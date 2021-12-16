@@ -1,6 +1,6 @@
 # Pickle Rick - THM CTF Writeup
 ## Introduction
-This is an easy level CTF from Try Hack Me requiring us to exploit a webserver and find 3 'ingredients' (flags) to turn rick back into a human from a pickle :D
+This is an easy level CTF from [Try Hack Me](https://tryhackme.com) requiring us to exploit a webserver and find 3 'ingredients' (flags) to turn rick back into a human from a pickle :D
 - Tags: ctf, dirbuster, linux
 
 <br>
