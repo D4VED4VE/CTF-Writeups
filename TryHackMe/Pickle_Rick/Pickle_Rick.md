@@ -47,12 +47,12 @@ Looking at the source of the homepage we see a comment from rick
 
 <br>
 
-I was looking around using the developer tools for a password at this point but couldnt find one. Eventually i thought about looking seeing if there is a robots.txt file on this webserver.
+I was looking around using the developer tools for a password at this point but couldnt find one. Eventually i thought about seeing if there is a robots.txt file on this webserver.
 - A lot of webservers have this file to instruct search engine crawlers what not to publically index in their search results
 - We find a rick and morty reference in the robots.txt file. This might be the password that goes with our username we found in the source.
 <br>
 
-I couldnt see a way to login to the website at thsi point so i tried to ssh into the server with the found credentials. This didnt work and it said i needed an rsa key.
+I couldnt see a way to login to the website at this point so i tried to ssh into the server with the found credentials. This didnt work and it said i needed an rsa key.
 
 There didn't seem to be any more information on the website so I moved on to the next stage.
 
